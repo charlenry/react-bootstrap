@@ -6,7 +6,7 @@ const Menu = (props) => {
   return (
     <Navbar bg="dark" variant="dark" expand="lg">
       <Container>
-        <Nav.Link as={NavLink} to="/" className='navbar-brand'>React Router Bootstrap</Nav.Link>
+        <Nav.Link as={NavLink} to="/" className='navbar-brand'>React Bootstrap Navbar</Nav.Link>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="ms-auto">

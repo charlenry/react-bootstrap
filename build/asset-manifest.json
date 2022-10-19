@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/react-bootstrap/build/static/css/main.0cd74a28.css",
-    "main.js": "/react-bootstrap/build/static/js/main.dad387c4.js",
+    "main.js": "/react-bootstrap/build/static/js/main.a5f0b7af.js",
     "index.html": "/react-bootstrap/build/index.html",
     "main.0cd74a28.css.map": "/react-bootstrap/build/static/css/main.0cd74a28.css.map",
-    "main.dad387c4.js.map": "/react-bootstrap/build/static/js/main.dad387c4.js.map"
+    "main.a5f0b7af.js.map": "/react-bootstrap/build/static/js/main.a5f0b7af.js.map"
   },
   "entrypoints": [
     "static/css/main.0cd74a28.css",
-    "static/js/main.dad387c4.js"
+    "static/js/main.a5f0b7af.js"
   ]
 }
