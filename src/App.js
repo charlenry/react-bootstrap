@@ -10,7 +10,7 @@ import ErrorPage from './components/ErrorPage';
 function App() {
   return (
     <div className='App'>
-      <BrowserRouter>
+      <BrowserRouter basename="/react-bootstrap/build">
         <Menu />
         <Routes>
           <Route path="/" element={<Accueil />} />
